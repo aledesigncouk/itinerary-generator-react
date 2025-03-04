@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple steps.
 
 Node >= 14.15.1<br>
 
-An OpenRouteService API key ([get one here](https://openrouteservice.org/dev/#/signup))<br>
+An OpenRouteService API key ([get one here](https://openrouteservice.org/dev/#/signup))<br> or https://openrouteservice.org/
 
 An OpenTripMap API key ([get one here](https://opentripmap.io/register))
 
